@@ -24,7 +24,7 @@ LLM을 활용한 일본 여행 추천 프로젝트
 
 ![image](https://github.com/user-attachments/assets/10ad0f81-d399-4fac-be1b-c1c67ed2622b)
 
-![image](https://github.com/user-attachments/assets/1cb1f41c-0d33-4fd3-b6eb-f1637826cb8d)
+![image](https://github.com/user-attachments/assets/d6f0ae2d-5881-4e76-b4f6-b62de89eec6b)
 
 
 # 5. 시연 영상 
