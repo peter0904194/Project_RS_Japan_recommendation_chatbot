@@ -1,0 +1,15 @@
+streamlit
+pandas
+langchain
+langchain-community>=0.3.8
+langchain_openai
+python-dotenv
+rank-bm25
+numpy
+faiss-cpu
+fuzzywuzzy
+python-Levenshtein
+sentence-transformers
+pydantic
+langchain_chroma
+pip install -U langchain-community
