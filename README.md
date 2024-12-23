@@ -26,7 +26,7 @@ LLM을 활용한 일본 여행 추천 프로젝트
 
 ## Contributors
 
-| 순번  | 발표날짜      | 이름                  | 모델명(노션 발표자료 링크)                                                                                                                                    | 논문명                                                                                                                                 |
+| 순번  | 발표날짜      |     이름           | 모델명(노션 발표자료 링크)                                                                                                                                    | 논문명                                                                                                                                 |
 |-----|-----------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |  1   | 2024.10.10  |    김 민 열       |   [Bert4rec](https://www.notion.so/BERT4Rec-Sequential-Recommendation-with-Bidirectional-Encoder-Representations-from-Transformer-10eab9efd4d48035bd1dc673c7d175a4?pvs=4)       |     BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer    |
 |  2   | 2024.10.10  |    서 준 형       |      [VAE for Collaborative Filtering](https://www.notion.so/Variational-Autoencoders-for-Collaborative-Filtering-10eab9efd4d48078ad00df288d474c4a?pvs=4)    |     Variational Autoencoders for Collaborative Filtering  |
