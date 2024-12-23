@@ -14,11 +14,15 @@ LLM을 활용한 일본 여행 추천 프로젝트
 ① BERT4Rec : 고객 성향 파악 - 사용자의 영화 취향에 숨어있는 성향을 분석해 여행지 추천해 반영하고자 함.
 
 ② Auto Encoder : 사용 데이터 선별 - 고객이 기존에 작성한 한국 음식점 리뷰 데이터를 바탕으로 일본 음식점 추천에 사용될 데이터를 선별함. 
-![image](https://github.com/user-attachments/assets/5db5243b-8a4c-46b5-9cd4-d2969e861139)
+
+![image](https://github.com/user-attachments/assets/1461a6b6-52c3-4887-b6c7-7864ee44a7c2)
+
 
 ③ LLM recommendation : ①, ②에서 추천 받은 영화 및 식당을 기반으로 RAG의 강점을 살려, 챗봇을 이용하여 정보를 제공할 수 있게 함. 
-<img width="527" alt="image" src="https://github.com/user-attachments/assets/1cb1f41c-0d33-4fd3-b6eb-f1637826cb8d" />
 
+![image](https://github.com/user-attachments/assets/10ad0f81-d399-4fac-be1b-c1c67ed2622b)
+
+![image](https://github.com/user-attachments/assets/1cb1f41c-0d33-4fd3-b6eb-f1637826cb8d)
 
 
 # 5. 시연 영상 
