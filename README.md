@@ -19,7 +19,6 @@ LLM을 활용한 일본 여행 추천 프로젝트
 ③ LLM recommendation : ①, ②에서 추천 받은 영화 및 식당을 기반으로 RAG의 강점을 살려, 챗봇을 이용하여 정보를 제공할 수 있게 함. 
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/1cb1f41c-0d33-4fd3-b6eb-f1637826cb8d" />
 
-![image](https://github.com/user-attachments/assets/40091558-c97a-4da7-8080-cbfd5a8a137d)
 
 
 # 5. 시연 영상 
