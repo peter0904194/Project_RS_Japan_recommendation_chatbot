@@ -28,6 +28,8 @@ LLM을 활용한 일본 여행 추천 프로젝트
 
 
 # 5. 시연 영상 
+![KakaoTalk_20241223_231344296](https://github.com/user-attachments/assets/906e032d-9565-4329-a2c8-6de526c4b0bb)
+
 
 ---
 ## 논문 스터디 
