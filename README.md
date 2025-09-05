@@ -1,4 +1,4 @@
-# Japan_recommenation_chatbot
+# Japan_recommendation_chatbot
 2024년 2학기, 비타민 14기, 추천시스템 1조 
 
 
